@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+}
+
+/*Style for paragraph tag*/
+#firstp {
+  word-spacing: 10px;
+  font-variant: small-caps;
+  text-align: center;
+  font-size: 80px;
+}
+
+#name {
+    font-size: 50px
+}
+
+#album
+{
+  border-style:solid;
+  border-color:#689F38
+  border: 1px 
+  border-radius: 80px;
+  padding: 5px;
+  width: 450px;
+}
